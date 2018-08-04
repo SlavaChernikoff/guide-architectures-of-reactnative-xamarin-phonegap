@@ -1,6 +1,6 @@
-## Introduction
+# Introduction
 
-Architecture of the software product can be compared with a skeleton, and the relations of human internal organs. That\'s why in real projects, a special attention to the architecture should be given. So the "body" would have the opportunity for the harmonic growth and long-term existence.
+Architecture of the software product can be compared with a skeleton, and the relations of human internal organs. That's why in real projects, a special attention to the architecture should be given. So the "body" would have the opportunity for the harmonic growth and long-term existence.
 
 In our guide, we will look at the architectures of popular cross-mobile frameworks, compare them and determine which class of tasks or commands the tool is suitable for.
 
@@ -16,3 +16,4 @@ The key questions we will try to answer in this guide:
 Our review is primarily aimed at technical managers, who determine whether to use cross-platform tools and which one is better suited for the long-term product development or rapid prototyping. Also, this guide can be recommended to all those interested in cross-platform development of mobile applications.
 
 Enjoy reading!
+
