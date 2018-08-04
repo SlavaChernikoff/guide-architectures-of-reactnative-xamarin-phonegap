@@ -18,7 +18,7 @@ Slava Chernikoff, slava@binwell.com
 
 Our contact info: [binwell.com](https://binwell.com), +7 \(499\) 677-49-27, contact@binwell.com.
 
-You can also subscribe to our Medium, where we often post interesting materials on cross-platform mobile applications development on Xamarin and Xamarin.Forms, and material on architecture and development technologies, as well as Mobile DevOps: [medium.com/binwell](https://medium.com/binwell)
+You can also subscribe to our Medium, where we often post interesting materials on cross-platform mobile applications development on Xamarin and Xamarin.Forms, and material on architecture and development technologies, as well as Mobile DevOps: [medium.com/binwell-blog](https://medium.com/binwell-blog)
 
 ![](.gitbook/assets/fb-logo.jpg)
 
